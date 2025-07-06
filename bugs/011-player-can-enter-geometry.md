@@ -26,7 +26,7 @@
 
 ---
 ### 🖼️ Скриншот ошибки 
-![ss](https://github.com/0xFury4068/Game-BugReport-TwilightForest3D/blob/main/assets/screens/text.jpg?raw=true)
+![011 — Player can enter geometry](https://github.com/0xFury4068/Game-BugReport-TwilightForest3D/blob/main/assets/screens/text.jpg?raw=true)
 
 ---
 
